@@ -11,8 +11,8 @@ The whole project was built using WebGL which is a JavaScript API that can be us
 
 For the development of the project we have used two libraries:
 
-* gl-matrix-min.js (Library for handling matrices)
-* webgl-debug.js (Library for debugging purposes)
+* **gl-matrix-min.js** (Library for handling matrices)
+* **webgl-debug.js** (Library for debugging purposes)
 
 Support for WebGL is present in Firefox 4+, Google Chrome 9+, Opera 12+, Safari 5.1+, Internet Explorer 11+, and Microsoft Edge build 10240+.
 However, the user's device must also have hardware that supports these features.
